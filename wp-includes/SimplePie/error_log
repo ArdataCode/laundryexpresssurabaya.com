@@ -1,0 +1,4 @@
+[27-Mar-2024 16:13:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/ujianori/laundryexpresssurabaya.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/laundryexpresssurabaya.com/wp-includes/SimplePie/Core.php on line 53

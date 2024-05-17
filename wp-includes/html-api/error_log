@@ -1,0 +1,4 @@
+[27-Mar-2024 16:16:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/ujianori/laundryexpresssurabaya.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/laundryexpresssurabaya.com/wp-includes/html-api/class-wp-html-processor.php on line 131

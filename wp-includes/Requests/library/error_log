@@ -1,0 +1,4 @@
+[27-Mar-2024 16:17:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/laundryexpresssurabaya.com/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/laundryexpresssurabaya.com/wp-includes/Requests/library/Requests.php on line 12
